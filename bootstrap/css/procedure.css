@@ -1,0 +1,20 @@
+.procedure
+{
+font-size:120%;
+font-family:Bahnschrift;
+text-align:justify;
+font-size: 135%;
+}
+table{
+	width: 60%;
+	height: 70%:;
+	border: 1px solid;
+	font-size: 100%;
+	font-family:Bahnschrift;
+}
+tr td{
+	border: 1px solid;
+	font-size: 100%;
+	float: center;
+	border-radius: 1px;
+}

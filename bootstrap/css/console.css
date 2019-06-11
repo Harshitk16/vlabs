@@ -1,0 +1,32 @@
+.simulation{
+  width:80%;
+  background-color:#bfbfbf;
+  margin-left: 2%;
+  padding-left: 2%;
+}
+.simulation p{
+font-family: Bahnschrift;
+color: black;
+margin-bottom: 2%;
+margin-top: 1%;
+}
+.simulation button{
+background-color: #4acf50;
+width:15%;
+height:5%;
+color:white;
+font-size: 1.3vw;
+border-color: #4ACF50;
+outline: none;
+}
+.simulation button:hover{
+  box-shadow:rgba(0, 0, 0, 0.2) 0px 8px 16px 0px, rgba(0, 0, 0, 0.19) 0px 6px 20px 0px;
+}
+.simulation textarea{
+  width:98%;
+  height:30%;
+  background-color: black;
+  color:white;
+  font-size: 1.2vw;
+  outline:none;
+}
