@@ -31,7 +31,7 @@
             <center>
               <p></p>
               <h3>This lab is contributed by</h3>
-              <img src="common\images\aitr_logo_it" alt="Acropolis Institute Of Technology Reserch" height="90" width="185">
+              <img src="common\images\aitr_logo_it.png" alt="Acropolis Institute Of Technology Reserch" height="90" width="185">
               <p>Acropolis Institute Of Technology Research</p>
             </center>
           </div>
